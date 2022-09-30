@@ -32,7 +32,7 @@ import com.cum.settings.preferences.SystemSettingListPreference;
 import com.cum.settings.preferences.SystemSettingSwitchPreference;
 import com.cum.settings.preferences.SystemSettingMasterSwitchPreference;
 import com.android.settings.Utils;
-import com.android.internal.util.cum.CumhUtils;
+import com.android.internal.util.cum.CumUtils;
 import android.util.Log;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.search.SearchIndexable;
